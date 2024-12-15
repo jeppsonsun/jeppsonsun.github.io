@@ -1,5 +1,5 @@
 # Site settings
-title: 孙志鹏
+title: SUNZHIPENG
 SEOTitle: 孙志鹏 - 分享我的生活
 header-img: img/post-bg-desk.jpg
 email: zhipeng.s@outlook.com
@@ -17,7 +17,7 @@ sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in b
 
 
 # SNS settings
-RSS: false
+RSS: True
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
 # github_username:    qiubaiying
@@ -104,8 +104,5 @@ friends: [
     },{
         title: "比较有趣",
         href: "http://www.bjuq.com"
-    },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
     }
 ]
